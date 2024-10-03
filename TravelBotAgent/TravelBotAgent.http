@@ -1,0 +1,6 @@
+@TravelBotAgent_HostAddress = http://localhost:5274
+
+GET {{TravelBotAgent_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
